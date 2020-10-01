@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerHitBox.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BossAnimController.cs" Line="10" Column="62" />
+      <File FileName="Assets\Scripts\PlayerAnimController.cs" Line="13" Column="2" />
+      <File FileName="Assets\Scripts\ZombieHitBox.cs" Line="91" Column="1" />
+      <File FileName="Assets\Scripts\PlayerHitBox.cs" Line="22" Column="44" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="284" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EverythingCOmbined" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlayerHitBox.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

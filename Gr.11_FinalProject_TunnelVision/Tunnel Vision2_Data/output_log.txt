@@ -1,0 +1,124 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 4320x1436 at -2400,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.613300 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: b5c -> priority: 1 
+  Thread -> id: 7218 -> priority: 1 
+  Thread -> id: 5cbc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.610100 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 685.
+Total: 0.404000 ms (FindLiveObjects: 0.041100 ms CreateObjectMapping: 0.017300 ms MarkObjects: 0.277500 ms  DeleteObjects: 0.056700 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.475200 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4560.
+Total: 0.495300 ms (FindLiveObjects: 0.152700 ms CreateObjectMapping: 0.031000 ms MarkObjects: 0.270500 ms  DeleteObjects: 0.040400 ms)
+
+In Attack Zone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+In Attack Zone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Out of zone!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.007165909
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Out of zone!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+damage taken: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+damage taken: 20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerEnter (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at BossAnimController.OnTriggerExit (UnityEngine.Collider other) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

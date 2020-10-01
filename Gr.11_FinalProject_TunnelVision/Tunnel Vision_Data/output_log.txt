@@ -1,0 +1,58 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.063 seconds
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rajat\Desktop\Self_Projects\FP.Kumar Karim Manoharan\FP.Kumar Karim Manoharan\Tunnel Vision_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 4320x1436 at -2400,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.691300 ms
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 73c4 -> priority: 1 
+  Thread -> id: 24c4 -> priority: 1 
+  Thread -> id: 6a20 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.015200 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 685.
+Total: 0.251500 ms (FindLiveObjects: 0.026500 ms CreateObjectMapping: 0.009800 ms MarkObjects: 0.167200 ms  DeleteObjects: 0.042400 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.478400 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 4560.
+Total: 0.508700 ms (FindLiveObjects: 0.168200 ms CreateObjectMapping: 0.029500 ms MarkObjects: 0.269800 ms  DeleteObjects: 0.040500 ms)
+
+damage taken: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+In Attack Zone
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+0.006474495
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Out of zone!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
